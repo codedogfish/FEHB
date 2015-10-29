@@ -3,7 +3,7 @@
 * [怎样才能称之为前端开发者？](zh/what-is-a-FD.md)
 * [第一部分: 前端实践](zh/practice.md)
 	* [前端职位](zh/practice/types-of-front-end-dev.md)
-    * [Common web tech employed](zh/practice/tech-employed-by-fd.md)
+    * [常用的 web 技术](zh/practice/tech-employed-by-fd.md)
 	* [Front-end dev skills](zh/practice/skills.md)
     * [Front-end devs develop for...](zh/practice/fd-dev-for.md)
 	* [Front-end on a team](zh/practice/team.md)
